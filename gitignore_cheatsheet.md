@@ -1,4 +1,5 @@
-Left-aligned | Center-aligned | Right-aligned 
+Pattern|Explanation/Matches |Examples
 -----        |  ------------  | --------     
-git status   | git status     | git status    
-git diff     | git diff       | git diff      
+name.file | All names with name.file will be ignored    | /name.file <br>  /lib/name.file 
+                                                                                                  
+
